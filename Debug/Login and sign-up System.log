@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Ayub\source\repos\ACM club\Login and sign-up System\main.cpp(192): warning C4715: 'input_checker': not all control paths return a value
+  Login and sign-up System.vcxproj -> C:\Users\Ayub\source\repos\ACM club\Login and sign-up System\Debug\Login and sign-up System.exe

@@ -1,0 +1,7 @@
+﻿  main.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\Ayub\source\repos\ACM club\Login and sign-up System\main.cpp(192): warning C4715: 'input_checker': not all control paths return a value
+  All 217 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Login and sign-up System.vcxproj -> C:\Users\Ayub\source\repos\ACM club\Login and sign-up System\Release\Login and sign-up System.exe
